@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { BookOpen, Zap, Target, TrendingUp, Code, Database, Shield, HelpCircle } from 'lucide-react'
+//import { BookOpen, Zap, Target, TrendingUp, Code, Database, Shield, HelpCircle } from 'lucide-react'
 import { Navigation } from '../components/Navigation'
 
 export function Docs() {
