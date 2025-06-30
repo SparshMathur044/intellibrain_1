@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Link } from 'react-router-dom'
 import { 
-  Brain, 
+  
   TrendingUp, 
   Target, 
   Zap, 
@@ -10,8 +10,8 @@ import {
   Sparkles, 
   Building2, 
   Users, 
-  Newspaper, 
-  Code,
+   
+  
   Play,
   Pause,
   RotateCcw
