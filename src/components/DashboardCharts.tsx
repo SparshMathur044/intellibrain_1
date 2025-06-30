@@ -10,7 +10,7 @@ interface DashboardChartsProps {
 export function DashboardCharts({ briefs }: DashboardChartsProps) {
   // Only show charts if we have meaningful data
   const hasData = briefs.length > 0
-  const hasMinimalData = briefs.length > 0 && briefs.length < 3
+  const _hasMinimalData = briefs.length > 0 && briefs.length < 3
 
   if (!hasData) {
     return (
